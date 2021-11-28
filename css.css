@@ -1,0 +1,46 @@
+/* CSS Document */
+/*公共样式*/
+boby,ul,li,p,h2,h4,h6{margin: 0; padding: 0; list-style: none;}
+body{background: url(sucai/body.gif);}
+a{text-decoration: none;color: #000;}
+.clear{clear: both;}
+.box{width: 960px;height: auto; margin: 0 auto;background: white}
+.header{height: auto;background: white;}
+.top img{float: left;}
+.top ul{float: left;border-top:10px solid #000;width: 730px;}
+.top li{float: left;width:81px;text-align: center;line-height: 44px;background: white;}
+.top li:hover{background: red; font-weight: bold;}
+.lujing{background:url(sucai/navbg.gif);line-height: 37px;padding-left: 20px;}
+.lujing span{margin: 0 5px;}
+.copyright{background: #666;text-align: center; line-height: 2em;}
+/*news.html样式*/
+.content{background:#F9F3F3;height: 640px;padding: 20px 30px;}
+h2{text-align: center;border-bottom: 1px dash #666; padding-bottom: 20px;}
+h4{text-align: right;}
+.content p{text-indent:2em; line-height:2em;}
+.content img{margin:0 auto;dieplay:block;}
+/*newslist.html样式 */
+form{float: right;padding-right: 20px; color: red;font-weight:bold;}
+.btn{float: right;margin: 10px 0 0 10px;}
+.zhongjian{padding:10px;}
+.left{width:208px;float:left;background:url("sucai/listfoot.gif") no-repeat bottom;padding-bottom: 32px;}
+.title{background:url("sucai/listhead.gif");height:38px;color:white;font-weight:bold;padding:10px 0 0 20px;}
+.left ul{padding-left:20px;padding-right:20px;background:url("sucai/listmiddle.gif");}
+.left li{line-height:2em;list-style:circle;list-style-position:inside;border-bottom:1px dashed #666;}
+.right{float:right;margin-left:30px;width:650px;}
+.right li{line-height:2em;background:url("sucai/ico1.gif") no-repeat 0 50%;padding-left:15px;border-bottom: 1px dashed#666;}
+.right a:hover{text-decoration: underline;color: red;}
+.right span{float: right;}
+/*index.html样式*/
+.container{width:960px;height: 500px;border:1px solid #000;margin:0 auto;padding:5px;}
+.tpnews{width: 280px; height: 210px; float: left; position:relative;}
+.tp_title{line-height: 1.5em; font-weight: bold;}
+.tp_title span{color: red;}
+.tpnews img{width: 280px;height: 180px;border: 1px solid #666; padding: 10px;}
+.btn1{position: absolute; right:15px;bottom:10px;}
+.btn1 a{width:20px; height:20px; background:red; margin-left: 5px; display: inline-block;text-align:center;}
+.jtxw p{font-weight:800;}
+.jtxwx li{line-height:1.8em;font-size:0.7em;border-bottom:1px dashed #666;}
+.jtxwx span{float:right;}
+.jtxwdx{width:360px;;float:left}
+.gsjj p{font-weight:800;}h6{width:100px;float:left;}

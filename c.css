@@ -1,0 +1,37 @@
+/* CSS Document */
+body ul{margin: 0px;padding: 0px;}
+body{background:url("imags/body.gif");}
+a{text-decoration: none;color: black;}
+ul{list-style: none;}
+.header{background:#FCFCFC;width:1000px;height: auto;}
+.bt img{float: left;}
+.conten ul{float: left;border-top: 10px solid #000;width: 730px}
+.conten li{float: left;width:81px;text-align: center;line-height: 44px;background: white;}
+a:hover{background:#FF0000;font-weight: bold;}
+.container{background:#FFFFFF;width: 1000px;}
+.tpnews{width:300px;height:210px;float: left;position: relative;}
+.tp_title{line-height: 1.5em;font-weight: bold;}
+.tp_title span{color: red;}
+.tpnews img{width:280px;height: 180px;border: 1px solid #666;background: #ddd;border-radius: 5px;padding: 10px;}
+.btn{position: absolute;right: 10px;bottom:10px;}
+.btn a{width: 20px;height: 20px;background: red;margin-left: 5px;display: inline-block;text-align: center;}
+.group{width:400px;height:210px;float: left;position: relative;background: #FFFFFF}
+.group ul{font-size: 13px;width: 380px;height:180px;background: #ddd;border-radius: 5px;padding: 10px;}
+.group li{line-height:18px;border-bottom:1px solid #666;}
+.jt_title{width: 400px;line-height: 1.5em;font-weight: bold;border-bottom:3px solid red;}
+.jt_title span{border: 1px solid #666;background:red;border-radius: 3px;color: white;}
+.neirong{width: 300px;height:auto;float: left;position: relative;}
+.neirong1{line-height: 1.5em;font-weight: bold;border-bottom: 3px solid red;}
+.neirong1 span{border: 1px solid #666;background:red;border-radius: 3px;color: white;}
+.neirong p{font-size:13px;width: 150px;line-height: 20px;}
+.neirong img{width: 150px;float: right;height:210px;}
+.zhanshi{width:700px;height:auto;float: left;position:relative;}
+.xiangmu{line-height: 1.5em;font-weight: bold;border-bottom:3px solid red;}
+.xiangmu span{border: 1px solid #666;background:red;border-radius: 3px;color: white;}
+.zhanshi img{height: 210px;width:169px;border: 1px solid #666;border-radius: 5px;}
+.instation{line-height: 1.5em;font-weight: bold;padding-top: 4px;}
+.search{width:280px;float: right;background: url("imags/img/searchbg.gif")no-repeat;height: 180px;padding:px;}
+input[type=image]{display: block;padding-left:60px;margin:10px}
+.zhan{padding-top: 50px;}
+.search span{color: red;font-weight: bold;}
+
